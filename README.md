@@ -1,16 +1,20 @@
 ```json
 {
   "currentlyLearning": [
-    "Functional Programming",
+    "K8s",
+    "Vim",
+    "NestJS",
+    "AstroJS",
+    "Docker",
     "Clean Architecture",
-    "Jest | Vitest",
-    "React Testing Library",
     "Ways to make our world much better"
   ],
   "askMeAbout": [
+    "Docker",
+    "Nginx",
+    "NodeJS",
     "React",
-    "React Ecosystem"
-    "Next",
+    "AstroJS"
   ],
   "additionalInformation": [
     "I like to always follow the best development practices",
