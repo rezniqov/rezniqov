@@ -1,26 +1,5 @@
 ```json
-{
-  "currentlyLearning": [
-    "K8s",
-    "Vim",
-    "NestJS",
-    "AstroJS",
-    "Docker",
-    "Clean Architecture",
-    "Ways to make our world much better"
-  ],
-  "askMeAbout": [
-    "Docker",
-    "Nginx",
-    "NodeJS",
-    "React",
-    "AstroJS"
-  ],
-  "additionalInformation": [
-    "I like to always follow the best development practices",
-    "I am always learning new and helpful information"
-  ]
-}
+in optima forma
 ```
 
 <!--
